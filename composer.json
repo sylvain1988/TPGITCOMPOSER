@@ -1,0 +1,12 @@
+{
+    "name": "pc200/tpgitcomposer",
+    "require": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "authors": [
+        {
+            "name": "Sylvain",
+            "email": "sylvainprat75@gmail.com"
+        }
+    ]
+}
