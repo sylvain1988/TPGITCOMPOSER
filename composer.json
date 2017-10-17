@@ -1,4 +1,10 @@
+    
 {
+    "autoload":
+    {
+        "psr-4":{"":"src/"}
+    } ,
+    
     "name": "pc200/tpgitcomposer",
     "require": {
         "phpunit/phpunit": "^6.4"
